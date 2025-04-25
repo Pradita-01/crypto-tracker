@@ -41,7 +41,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/crypto-live-tracker.git
+
 cd crypto-live-tracker
 Install Dependencies
 
@@ -80,19 +80,7 @@ websocketservices.js: Manages WebSocket connection and disconnection.
 
 cryptotable.css: Styles for table layout and contents.
 
-How to Contribute
-Fork the repository to your GitHub account.
 
-Make a new branch for your feature or bug fix (git checkout -b feature-name).
-
-Commit your changes (git commit -m 'Add new feature').
-
-Push to your branch (git push origin feature-name).
-
-Create a pull request to the master repository.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
 React and Redux: For making state management in React efficient and easy.
